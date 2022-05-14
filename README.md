@@ -1,2 +1,2 @@
 # appz_bot_example
-t1
+t2
